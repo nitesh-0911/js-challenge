@@ -1,0 +1,15 @@
+in this day i am solving question related to numbers-
+
+all questions are here-
+
+1. print number 1 to n
+
+2. print number n to 0 without changing condition of loop in above question
+
+3. i have to print all even number from 1 to n
+
+4. sum of n natural numbers
+
+5. factorial of n number
+
+6. sum of even numbers till n
